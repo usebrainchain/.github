@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://usebrainchain.com">Website</a> ·
-  <a href="https://usebrainchain.com/how-it-works">How it works</a> ·
+  <a href="https://usebrainchain.com/docs">Docs</a> ·
   <a href="https://github.com/usebrainchain/brainchain">Contracts</a> ·
   <a href="https://github.com/usebrainchain/brainchain/blob/main/SECURITY.md">Security</a>
 </p>
