@@ -35,7 +35,7 @@ flowchart LR
 
 ### Status
 
-BrainChain is preparing its public testnet on Robinhood Chain testnet. The contracts are open source and have not been audited yet.
+**BrainChain testnet is live** on Robinhood Chain testnet. Add the network and claim test USDG at [usebrainchain.com/network](https://usebrainchain.com/network). The contracts are open source and have not been audited yet.
 
 ### Get involved
 
