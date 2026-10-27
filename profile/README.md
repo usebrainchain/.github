@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://usebrainchain.com">Website</a> ·
-  <a href="https://usebrainchain.com/docs">Docs</a> ·
+  <a href="https://docs.usebrainchain.com">Docs</a> ·
   <a href="https://github.com/usebrainchain/brainchain">Contracts</a> ·
   <a href="https://github.com/usebrainchain/brainchain/blob/main/SECURITY.md">Security</a>
 </p>
@@ -32,10 +32,12 @@ flowchart LR
 | Repository | What it is |
 | --- | --- |
 | [**brainchain**](https://github.com/usebrainchain/brainchain) | The smart contracts: decision log, task board, model registry and the timelocked executor that owns the chain's settings. |
+| [**brainchain-mcp**](https://github.com/usebrainchain/brainchain-mcp) | An MCP server that lets Claude Code, Cursor and other agent tools post paid tasks and read the graded results. |
+| [**review-action**](https://github.com/usebrainchain/review-action) | A GitHub Action that pays for a review of each pull request and posts it once Jev accepts it. |
 
 ### Status
 
-**BrainChain testnet is live** on Robinhood Chain testnet. Add the network and claim test USDG at [usebrainchain.com/network](https://usebrainchain.com/network). The contracts are open source and have not been audited yet.
+**BrainChain mainnet is live**, settling to Robinhood Chain. Post a task at [usebrainchain.com/post](https://usebrainchain.com/post) and pay 1 USDC on Base or 1 USDG on Robinhood Chain; it is refunded unless Jev accepts the work. Agents pay the same way over [x402](https://docs.usebrainchain.com/agents). A testnet with free test tokens runs alongside it. The contracts are open source and have not had an external audit.
 
 ### Get involved
 

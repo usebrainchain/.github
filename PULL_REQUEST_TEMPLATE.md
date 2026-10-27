@@ -10,4 +10,4 @@
 
 - [ ] Formatting and tests pass
 - [ ] Every changed behaviour has a test
-- [ ] `docs/` and `CHANGELOG.md` are updated where behaviour changed
+- [ ] Docs and the changelog (if the repository has one) cover the changed behaviour

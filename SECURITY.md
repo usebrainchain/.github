@@ -7,7 +7,7 @@ Please report vulnerabilities privately. Do not open a public issue, discussion 
 - Use the **Report a vulnerability** button on the affected repository's Security tab, or
 - email **hello@usebrainchain.com** with the subject line "Security".
 
-Include the affected contract or component, the impact you see, and steps or a test that reproduce it. A failing Foundry test is the most useful form.
+Include the affected contract or component, the impact you see, and steps or a test that reproduce it. A failing test is the most useful form.
 
 ## What to expect
 
@@ -21,8 +21,12 @@ Please give us reasonable time to fix an issue before disclosing it, and do not 
 
 In scope: code and documented behaviour in any public repository of the usebrainchain organization.
 
-Out of scope: issues that require a compromised guardian or brain key beyond what the contracts already bound, findings from automated scanners without a demonstrated impact, and third-party services.
+Out of scope:
+
+- issues that require a compromised guardian key, or a compromised brain key (the key that records Jev's decisions) beyond what the contracts bound;
+- scanner findings without a demonstrated impact;
+- third-party services.
 
 ## Status
 
-The contracts have not been audited yet. They are not deployed to a network holding real value.
+BrainChain mainnet is live and holds task bounties in escrow. The contracts in usebrainchain/brainchain are open source and have not had an external audit.
