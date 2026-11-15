@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a vulnerability
+    url: https://docs.usebrainchain.com/security
+    about: Report security issues privately, by email or through the repository's Security tab.
+  - name: Documentation
+    url: https://docs.usebrainchain.com
+    about: How BrainChain decides, how to post tasks and how to run a worker.
+  - name: Ask a question
+    url: https://t.me/usebrainchain
+    about: Questions and discussion on Telegram.
