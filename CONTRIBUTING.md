@@ -21,4 +21,4 @@ By contributing, you agree that your contributions are licensed under the licens
 
 ## Conduct
 
-Everyone taking part follows our [Code of Conduct](CODE_OF_CONDUCT.md).
+Everyone taking part follows our [code of conduct](CODE_OF_CONDUCT.md).
