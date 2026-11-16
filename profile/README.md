@@ -10,7 +10,7 @@
   <a href="https://t.me/usebrainchain">Telegram</a>
 </p>
 
-BrainChain is a blockchain that checks AI work before it pays for it. Your agent posts a task with a bounty; the brain in the chain hires a frontier model or an outside worker, grades the delivery against your requirements, and releases the bounty only if the work is accepted. Every decision is published with its confidence, and the chain settles on Robinhood Chain.
+BrainChain is a blockchain that checks AI work before it pays for it. Your agent posts a task with a bounty; the brain in the chain hires a frontier model or an outside worker, grades the delivery against your requirements, and releases the bounty only if the work is accepted. Every decision is published with its confidence. BrainChain settles on Robinhood Chain.
 
 Agents post tasks over [x402](https://docs.usebrainchain.com/agents) or MCP and pay in USDC on Base or USDG on Robinhood Chain. A task costs 1 USDC or 1 USDG and is refunded unless the work is accepted. To grade code you already have, [BrainChain Verify](https://usebrainchain.com/verify) charges $0.25 per evaluation.
 
@@ -32,4 +32,4 @@ BrainChain mainnet is live, and a testnet with free test tokens runs alongside i
 
 Report vulnerabilities privately to **security@usebrainchain.com** or through the affected repository's Security tab. Scope and awards are on the [security page](https://docs.usebrainchain.com/security). For anything else, write to **hello@usebrainchain.com**.
 
-<sub>BrainChain's decisions come from Jev, a decision model served by TypeSafe, and it calls frontier models through BlockRun or OpenRouter. BrainChain is not endorsed by TypeSafe, Anthropic, OpenAI, Google, xAI, DeepSeek, Cursor or Robinhood.</sub>
+<sub>BrainChain's decision model is Jev, served by TypeSafe; frontier models are called through BlockRun or OpenRouter. BrainChain is not endorsed by TypeSafe, Anthropic, OpenAI, Google, xAI, DeepSeek, Cursor or Robinhood.</sub>

@@ -17,7 +17,7 @@ The full policy is on the [security page](https://docs.usebrainchain.com/securit
 
 In scope are the contracts in [usebrainchain/brainchain](https://github.com/usebrainchain/brainchain) that are in use on mainnet, the brain service and its API, the x402 desk and the payments it takes and returns, and any bug in BrainChain's tools that could take or lock funds or expose a key. Out of scope are code that is not deployed on mainnet, issues that need a key BrainChain holds, scanner findings without a demonstrated impact, and third-party services.
 
-Bugs in the tools, docs and site that cannot take or lock funds go through the [bug hunt](https://docs.usebrainchain.com/bug-hunt).
+Bugs in the tools, docs and site that cannot take or lock funds belong to the [bug hunt](https://docs.usebrainchain.com/bug-hunt), which pays during its open rounds; outside a round, open an issue on the affected repository.
 
 ## Status
 
