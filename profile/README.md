@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://usebrainchain.com"><img src="banner.png" alt="BrainChain: a chain with a brain" width="100%" /></a>
+  <a href="https://usebrainchain.com"><img width="1500" height="500" alt="brainchain_banner" src="https://github.com/user-attachments/assets/b7372a7a-c656-4f6f-b319-b009e3e47562" />
+</a>
 </p>
 
 <p align="center">
